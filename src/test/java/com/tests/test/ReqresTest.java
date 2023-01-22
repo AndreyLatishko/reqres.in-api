@@ -1,11 +1,9 @@
 package com.tests.test;
 import com.tests.helpers.ApiSpecifications;
-import com.tests.pojo.SignupRequest;
-import com.tests.pojo.SuccessSignupResponse;
-import com.tests.pojo.User;
+import com.tests.pojo.*;
+import com.tests.pojo.Error;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import com.tests.pojo.Error;
 
 import java.util.List;
 
